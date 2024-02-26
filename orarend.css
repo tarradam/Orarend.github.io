@@ -1,0 +1,49 @@
+table, th, td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.DK{
+    background-color: cyan;
+}
+.Matek{
+    background-color: darkorchid;
+}
+.Magyarny{
+    background-color: brown;
+}
+.Magyari{
+    background-color: burlywood;
+}
+.Angol{
+    background-color: cadetblue;
+}
+.Fizika{
+    background-color: chartreuse;
+}
+.Ital{
+    background-color: darkseagreen;
+}
+.Tesi{
+    background-color: deeppink;
+}
+.Töri{
+    background-color: gold;
+}
+.Pra{
+    background-color: lightskyblue;
+}
+.Kémia{
+    background-color: olivedrab;
+}
+.IPRL{
+    background-color: plum;
+}
+.Biosz{
+    background-color: red;
+}
+.Földrajz{
+    background-color: salmon;
+}
+.Ofő{
+    background-color: sandybrown;
+}
